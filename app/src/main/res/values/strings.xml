@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HttpUtilDemo</string>
+
+    <!-- ******************公共字段：用于HttpUtil****************** -->
+    <string name="network_enable">当前网络未连接</string>
+    <string name="network_terrible">当前网络不佳，请检查您的网络设置。</string>
+    <string name="network_error">网络连接异常</string>
+    <string name="network_timeout">网络请求超时，请重试</string>
+    <string name="network_unavailable">网络连接不可用</string>
+    <!-- 公共字段 end-->
+
+</resources>
